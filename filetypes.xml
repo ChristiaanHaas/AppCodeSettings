@@ -4,6 +4,7 @@
       <mapping pattern="scripts/webpackDevServer" type="PLAIN_TEXT" />
       <mapping pattern="error_boundary" type="PLAIN_TEXT" />
       <mapping pattern="initialization" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="tests" type="PLAIN_TEXT" />
       <mapping pattern="userIsAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="parsers/numberToMoney" type="PLAIN_TEXT" />
