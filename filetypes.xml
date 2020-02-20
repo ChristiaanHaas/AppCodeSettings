@@ -13,6 +13,7 @@
       <mapping pattern="userIsAuthenticated" type="PLAIN_TEXT" />
       <mapping pattern="expandable_grid/ExpandableGrid" type="PLAIN_TEXT" />
       <mapping pattern="error_boundary" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="parsers/numberToMoney" type="PLAIN_TEXT" />
       <mapping pattern="scripts/webpackDevServer" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
