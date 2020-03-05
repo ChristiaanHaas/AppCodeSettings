@@ -224,4 +224,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="epa" value="$NAME$: action((state, $PAYLOAD$) =&gt; {&#10;  state.$PAYLOAD$ = $PAYLOAD$&#10;})," description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PAYLOAD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
