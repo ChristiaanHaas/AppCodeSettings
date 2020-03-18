@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tests" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="calculate_subtotal_in_column" type="PLAIN_TEXT" />
       <mapping pattern="services/email" type="PLAIN_TEXT" />
       <mapping pattern="scroll/ScrollContext" type="PLAIN_TEXT" />
