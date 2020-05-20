@@ -2,24 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="prod" type="Dockerfile" />
-      <mapping pattern="scripts/webpackDevServer" type="PLAIN_TEXT" />
-      <mapping pattern="PrimaryActionButton" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="initialization" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="tests" type="PLAIN_TEXT" />
-      <mapping pattern="userIsAuthenticated" type="PLAIN_TEXT" />
-      <mapping pattern="parsers/numberToMoney" type="PLAIN_TEXT" />
-      <mapping pattern="error_boundary" type="PLAIN_TEXT" />
-      <mapping pattern="expandable_grid/ExpandableGrid" type="PLAIN_TEXT" />
-      <mapping pattern="calculate_subtotal_in_column" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="mockActorsResponse" type="PLAIN_TEXT" />
-      <mapping pattern="mail/index" type="PLAIN_TEXT" />
-      <mapping pattern="AuthenticationService" type="PLAIN_TEXT" />
-      <mapping pattern="scroll/ScrollContext" type="PLAIN_TEXT" />
-      <mapping pattern="services/email" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
@@ -27,12 +11,30 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="Shell Script" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="error_boundary" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="mockActorsResponse" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="services/email" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="mail/index" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="PrimaryActionButton" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="scripts/webpackDevServer" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="parsers/numberToMoney" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="calculate_subtotal_in_column" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="scroll/ScrollContext" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tests" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="initialization" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="userIsAuthenticated" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="expandable_grid/ExpandableGrid" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="LICENSE" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="AuthenticationService" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
