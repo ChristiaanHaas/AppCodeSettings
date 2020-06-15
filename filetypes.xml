@@ -5,6 +5,7 @@
       <mapping ext="prod" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping ext="seeder" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
