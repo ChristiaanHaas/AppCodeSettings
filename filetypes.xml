@@ -4,6 +4,7 @@
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="seeder" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
