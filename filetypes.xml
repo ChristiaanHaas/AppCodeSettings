@@ -1,21 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".dockerignore" approved="true" type="Docker file" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
-      <mapping ext="seeder" type="PLAIN_TEXT" />
-      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="node" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="seeder" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="error_boundary" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
