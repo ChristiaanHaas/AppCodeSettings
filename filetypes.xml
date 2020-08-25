@@ -16,6 +16,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="Shell Script" />
       <removed_mapping pattern="error_boundary" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Procfile" approved="true" type="PLAIN_TEXT" />
@@ -40,7 +41,6 @@
       <removed_mapping pattern="expandable_grid/ExpandableGrid" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="LICENSE" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="AuthenticationService" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
