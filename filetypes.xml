@@ -12,8 +12,8 @@
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="seeder" type="PLAIN_TEXT" />
-      <mapping ext="gdb" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
+      <mapping ext="gdb" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
