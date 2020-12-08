@@ -7,6 +7,7 @@
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".cargo-ok" type="PLAIN_TEXT" />
+      <mapping pattern="configureAWS" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
